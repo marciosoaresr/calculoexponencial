@@ -1,0 +1,13 @@
+D:\_Projetos\CalculoExponencial\CalculoExponencial\bin\Debug\netcoreapp3.1\CalculoExponencial.exe
+D:\_Projetos\CalculoExponencial\CalculoExponencial\bin\Debug\netcoreapp3.1\CalculoExponencial.deps.json
+D:\_Projetos\CalculoExponencial\CalculoExponencial\bin\Debug\netcoreapp3.1\CalculoExponencial.runtimeconfig.json
+D:\_Projetos\CalculoExponencial\CalculoExponencial\bin\Debug\netcoreapp3.1\CalculoExponencial.runtimeconfig.dev.json
+D:\_Projetos\CalculoExponencial\CalculoExponencial\bin\Debug\netcoreapp3.1\CalculoExponencial.dll
+D:\_Projetos\CalculoExponencial\CalculoExponencial\bin\Debug\netcoreapp3.1\CalculoExponencial.pdb
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.vbprojAssemblyReference.cache
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.AssemblyInfoInputs.cache
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.AssemblyInfo.vb
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.vbproj.CoreCompileInputs.cache
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.dll
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.pdb
+D:\_Projetos\CalculoExponencial\CalculoExponencial\obj\Debug\netcoreapp3.1\CalculoExponencial.genruntimeconfig.cache
